@@ -8,3 +8,5 @@ def test_homework():
     assert os.path.exists("files/output/file1.txt")
     assert os.path.exists("files/output/file2.txt")
     assert os.path.exists("files/output/file3.txt")
+
+
